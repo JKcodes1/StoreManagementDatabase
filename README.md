@@ -1,4 +1,4 @@
-# finalCapstone
+# Store Management
 
 Description:
 This is a database project, where first it creates a database using Python and SQLite, and then the user can add a book, Update book details, Delete a book or find a book.  
