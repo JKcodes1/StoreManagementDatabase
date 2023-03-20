@@ -1,4 +1,4 @@
-# This is a Store Management Database project that creates database in SQLite & ten allows user to manage a book store.
+# This is a Store Management Database project that creates database in SQLite. This project allows user to manage a book store.
 
 Description:
 This is a database project, where first it creates a database using Python and SQLite, and then the user can add a book, Update book details, Delete a book or find a book.  
